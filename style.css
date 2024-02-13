@@ -1,0 +1,9 @@
+.stats {
+  background: linear-gradient(
+    to bottom,
+    rgb(77, 77, 77),
+    rgb(51, 51, 51),
+    rgb(26, 26, 26)
+  );
+  margin: 200px 0px;
+}
